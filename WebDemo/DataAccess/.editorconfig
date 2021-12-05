@@ -13,7 +13,7 @@ indent_style = space
 
 #prefer accessibility modifiers to be declared except for public interface members. This will currently not differ from always and will act as future proofing for if C# adds default interface methods.
 dotnet_style_require_accessibility_modifiers = for_non_interface_members:suggestion
-csharp_indent_braces=true
+csharp_indent_braces=false
 csharp_style_namespace_declarations=file_scoped:silent
 
 [*.{cs,vb}]
