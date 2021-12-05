@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[2.0.3, )"
             },
+            "Dapper.Oracle.StrongName": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
             "Oracle.ManagedDataAccess.Core": {
               "target": "Package",
               "version": "[3.21.4, )"
